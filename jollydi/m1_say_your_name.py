@@ -9,7 +9,7 @@ Authors: Dave Fisher and Isaiah Jolly.
 
 
 # ------------------------------------------------------------------
-# TODO: 2. Make the robot say "David Fisher can write E V 3 programs"
+# DONE: 2. Make the robot say "David Fisher can write E V 3 programs"
 #   But of course use YOUR NAME.
 #
 #   Use the samples to figure out the necessary lines of code.
@@ -21,4 +21,4 @@ Authors: Dave Fisher and Isaiah Jolly.
 import ev3dev as ev3
 
 def main():
-    ev3.
+    ev3.Sound
